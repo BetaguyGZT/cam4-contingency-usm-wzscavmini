@@ -1,7 +1,7 @@
 cam4-contingency-usm-wzscavmini
 ===============================
 
-Campaign 4, Contingency, Ultimates Scavengers and WZScavengers Mini Mod dataset for FlaME
+Campaign 4, Contingency, Ultimate Scavengers and Scavenger Wars dataset for FlaME
 
 Links:
 ------
@@ -13,4 +13,4 @@ Contingency Mod (by ShadowWolf TJC): http://forums.wz2100.net/viewtopic.php?f=49
 
 Ultimate Scavengers Mod (by NoQ): http://forums.wz2100.net/viewtopic.php?f=49&t=9182
 
-Warzone Scavenger Wars MiniMod (by NoQ): http://forums.wz2100.net/viewtopic.php?f=49&t=9913 
+Scavenger Wars (by NoQ): http://forums.wz2100.net/viewtopic.php?f=49&t=9913 
